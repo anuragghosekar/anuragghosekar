@@ -1,8 +1,18 @@
-<h1 align="left">Hey 👋</h1>
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
+  
 
-###
+### <div align="center">I'm Anurag Ghosekar</div>  
+  
 
-<p align="left">I am Anurag Ghosekar and I'm  undergraduate in CSE from Nagpur, Maharashtra and currently pursuing my PG-Diploma from CDAC, Pune</p>
+- 🎓 I'm undergraduate in Computer Science and Engineering.  
+  
+
+- 💻 Currently pursuing my PG-Diploma in Advance Computing.  
+  
+
+<br/>  
 
 ###
 
