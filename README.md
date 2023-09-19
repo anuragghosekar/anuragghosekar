@@ -58,7 +58,7 @@ I'm an enthusiastic undergraduate student of Computer Science and Engineering fr
 
 <br/>  
 
-
+<!--
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/anuragghosekar" target="_blank">
@@ -71,7 +71,7 @@ I'm an enthusiastic undergraduate student of Computer Science and Engineering fr
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+--> 
 
 <br/>  
 
