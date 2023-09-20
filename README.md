@@ -4,7 +4,7 @@
 ### <div align="center">I'm Anurag Ghosekar</div>  
   
 
-- 🎓 My undergraduate degree is in Computer Science and Engineering.
+- 🎓 I have done my graduation in Computer Science and Engineering.
   
 
 - 💻 Currently pursuing my PG-Diploma in Advance Computing.  
