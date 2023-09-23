@@ -19,7 +19,9 @@
 ###
 
 <p align="left">
-I'm an enthusiastic undergraduate student of Computer Science and Engineering from Rashtrasant Tukdoji Maharaj Nagpur University who is presently pursuing PG-Diploma in Advance Computing from CDAC, Pune. My progress in this field has been propelled by a combination of challenging coursework and practical internships. These experiences have improved my knowledge of  software development and emerging technologies. I enjoy taking on complex problems because I'm a passionate learner, and I'm genuinely devoted to extending the capabilities of technology. I'm eager to use my expertise and abilities and continue my journey of innovation and growth.</p>
+ I'm an enthusiastic undergraduate student of Computer Science and Engineering from Rashtrasant Tukdoji Maharaj Nagpur University who is presently pursuing PG-Diploma in Advance Computing from CDAC, Pune.
+ My progress in this field has been propelled by a combination of challenging coursework and practical internships. These experiences have improved my knowledge of  software development and emerging technologies. I enjoy taking on complex problems because I'm a passionate learner, and I'm genuinely devoted to extending the capabilities of technology. 
+ I'm eager to use my expertise and abilities and continue my journey of innovation and growth.</p>
 
 ###
 
