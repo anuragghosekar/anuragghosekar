@@ -1,7 +1,7 @@
  
   
 
-### <div align="center">Hey, I'm Anurag Ghosekar</div>  
+## <div align="center">Hey, I'm Anurag Ghosekar</div>  
   
 
 - 🎓 I have done my graduation in Computer Science and Engineering.
