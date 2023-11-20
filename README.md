@@ -7,7 +7,7 @@
 - 🎓 I have done my graduation in Computer Science and Engineering.
   
 
-- 💻 Currently pursuing my Postgraduate-Diploma in Advance Computing.  
+- 💻 Currently pursuing my Postgraduation-Diploma in Advance Computing.  
   
 
 <br/>  
