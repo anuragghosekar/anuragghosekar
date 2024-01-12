@@ -11,7 +11,7 @@
 
 <br/>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushgupta74&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgupta74" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragghosekar&label=Profile%20views&color=0e75b6&style=flat" alt="anuragghosekar" /> </p>
 
 <br/>  
 
