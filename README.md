@@ -7,8 +7,11 @@
 - 🎓 I have done my graduation in Computer Science and Engineering.
   
 
-- 💻 Currently pursuing my Postgraduation-Diploma in Advance Computing.  
+- 💻 Currently pursuing my Postgraduation-Diploma in Advance Computing.
+
+<br/>
   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushgupta74&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgupta74" /> </p>
 
 <br/>  
 
